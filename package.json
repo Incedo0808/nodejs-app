@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "description": "testing app for azure webapp service deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Incedo0808/nodejs-app.git"
+  },
+  "author": "rajesh Vishwakarma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Incedo0808/nodejs-app/issues"
+  },
+  "homepage": "https://github.com/Incedo0808/nodejs-app#readme"
+}
